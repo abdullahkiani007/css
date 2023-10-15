@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Navbar.module.css */
+.dropdownMenu {
+    display: flex;
+    flex-direction: column;
+    background-color: #2d3748;
+    transition: max-height 0.3s ease-out;
+    overflow: hidden;
+    max-height: 0;
+  }
+  
+  .dropdownLink {
+    padding: 1rem;
+    color: #ffffff;
+    text-decoration: none;
+    transition: transform 0.3s ease-out;
+  }
+  
+  .dropdownLink:hover {
+    transform: translateX(10px);
+  }
+  
