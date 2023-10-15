@@ -13,6 +13,7 @@ function Attributes() {
         <h1 className="text-black  text-lg">Why CSS</h1>
       </div> */}
 
+      {/* Mobile */}
       <div className="lg:hidden   text-center">
         <h1 className="font-bold text-xl py-2">
           Why Codewar Software Solutions
