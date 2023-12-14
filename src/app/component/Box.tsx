@@ -33,7 +33,7 @@ function Box(props: BoxProps) {
       {/* className="absolute top-0 left-1/2 transform -translate-x-1/2 bg-gray-200 p-4 rounded-lg shadow-lg" */}
       {showPopup && (
         <div className="text-start space-x-1 bg-gray-800 absolute w-96 h-96 text-black  p-10 lg:w-96 shadow-xl">
-          <p className="text-white tracking-wide">{popupText}</p>
+          <p className="text-white tracking-normal text-justify">{popupText}</p>
         </div>
       )}
       <div>
