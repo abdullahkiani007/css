@@ -17,14 +17,18 @@ function About() {
             Transforming Complexity into Simplicity
           </h1>
           <p className="text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta
-            eligendi, reprehenderit architecto possimus expedita sequi provident
-            delectus quia nostrum totam inventore sit sed fugit officiis
-            repellat dicta quisquam corporis temporibus. Lorem ipsum dolor sit
-            amet consectetur, adipisicing elit. Soluta eligendi, reprehenderit
-            architecto possimus expedita sequi provident delectus quia nostrum
-            totam inventore sit sed fugit officiis repellat dicta quisquam
-            corporis temporibus.
+            Welcome to CodeWar Software Solutions, your strategic technology
+            partner for innovative solutions. Our approach involves building
+            cohesive teams with shared goals, offering a clean, economical entry
+            and exit from development processes. With expertise in Java, Rust,
+            Python, and JavaScript, we speak the language of software fluently.
+            Committed to technical excellence, our managers lead custom
+            development projects, ensuring a significant price/performance
+            advantage. From Digital Healthcare to E-Learning, our versatile
+            projects span various verticals. With over a year of experience, we
+            pride ourselves on retaining top-tier engineers, providing agile,
+            quality solutions tailored to your needs. Choose CodeWar for a
+            partnership that accelerates your success in the digital realm.
           </p>
         </div>
       </div>
